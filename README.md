@@ -2,9 +2,9 @@
 
 Dashboard interativa em **HTML de arquivo único**, construída a partir de uma planilha de 100 vendas da Porsche (base sanitizada do desafio DIO *Criando Agentes de Tratamento de Dados*). Responde a três perguntas de negócio com gráficos e indicadores, tem filtros reativos, tema claro/escuro e os dados embutidos no próprio HTML.
 
-🔗 **Dashboard publicada:** https://SEU-USUARIO.github.io/porsche-sales-dashboard/
+🔗 **Dashboard publicada:** https://attano2242.github.io/porsche-sales-dashboard/
 
-> Troque `SEU-USUARIO` pelo seu usuário do GitHub depois de ligar o GitHub Pages.
+> Fica no ar assim que o GitHub Pages for ligado (Settings → Pages → Deploy from a branch → `main` / root).
 
 ![Dashboard de Vendas Porsche](docs/screenshot.jpg)
 
@@ -89,8 +89,7 @@ Um terceiro agente orquestrou: perfilou a base, tratou os dados, montou o HTML a
 1. Crie um repositório **público** chamado `porsche-sales-dashboard` na sua conta.
 2. Suba o `index.html` (e, se quiser, esta pasta inteira) para o branch `main`.
 3. Em **Settings → Pages**, em *Build and deployment*, escolha **Deploy from a branch**, branch `main` / pasta `/ (root)`, e salve.
-4. Aguarde ~1 min e acesse `https://SEU-USUARIO.github.io/porsche-sales-dashboard/`.
-5. Atualize o link no topo deste README.
+4. Aguarde ~1 min e acesse `https://attano2242.github.io/porsche-sales-dashboard/`.
 
 ---
 
